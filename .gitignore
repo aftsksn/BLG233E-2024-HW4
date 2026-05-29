@@ -1,0 +1,21 @@
+# Derlenmiş dosyalar ve klasörler
+bin/
+*.o
+*.out
+*.exe
+
+# IDE ve Editör ayarları
+.vscode/
+
+# Teslim klasörleri, arşivleri ve loglar
+submission/
+*.zip
+submission.zip
+submission_script.sh
+valgrind-out.txt
+
+# Proje yönergeleri (Telif ve akademik kurallar gereği)
+*.pdf
+
+# İşletim sistemi kalıntıları
+.DS_Store
